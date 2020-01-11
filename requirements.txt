@@ -1,6 +1,5 @@
 beautifulsoup4==4.8.1
 certifi==2019.3.9
-cffi==1.11.5
 chardet==3.0.4
 Click==7.0
 darksky==0.3
